@@ -1,0 +1,14 @@
+data/
+cache/
+.env
+*_clean.png
+__pycache__/
+*.pyc
+.pytest_cache/
+ledger.csv
+audit_export.json
+DocAudit_Final_Code_v5_Part1.md
+DocAudit_Final_Code_v5_Part2.md
+.codeartsdoer/
+PROJECT_GUIDE.md
+PROJECT_REPORT.md
